@@ -32,5 +32,4 @@ public class Controller
     {
         _view.Display(_model);
     }
-
 }
